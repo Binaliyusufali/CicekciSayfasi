@@ -8,4 +8,4 @@
 <p>HTML5 ve CSS3 kullanılarak hazırlanmıştır.</p>
 <h1>Ekran Görüntüsü</h1>
 
-<img src="YesilZetin-GIF.gif">
+<img src="yesilzeytin.gif">
